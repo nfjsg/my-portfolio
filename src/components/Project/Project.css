@@ -1,1 +1,24 @@
 
+/* Add your Project-specific styles here */
+
+.project-container {
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin: 15px;
+}
+
+.project-title {
+  margin: 0;
+}
+
+.project-description {
+  margin-bottom: 10px;
+}
+
+.project-links a {
+  text-decoration: none;
+  color: #333;
+  margin-right: 10px;
+}
+
+/* Add more styles as needed */
