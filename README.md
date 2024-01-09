@@ -1,7 +1,7 @@
 
 
 
-```markdown
+
 # Your React Portfolio
 
 This is a React-based portfolio showcasing your projects and skills. It includes different sections such as About Me, Portfolio, Contact, and Resume.
@@ -60,6 +60,3 @@ Contributions are welcome! If you'd like to improve this portfolio or add new fe
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 ```
 
-Replace placeholders such as `yourusername`, `your-react-portfolio`, and `your-netlify-app-url` with your actual information.
-
-Feel free to add more details, sections, or customize it according to your preferences. If you have any specific questions or need further assistance with your README, let me know!
