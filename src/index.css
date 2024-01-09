@@ -1,1 +1,19 @@
+/* Reset some default styles for consistency across browsers */
+body,
+h1,
+h2,
+h3,
+p,
+ul,
+ol,
+li {
+  margin: 0;
+  padding: 0;
+}
 
+/* Apply a global font family or any other styles you want */
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+/* Add more global styles as needed */
