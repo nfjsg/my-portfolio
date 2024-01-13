@@ -1,3 +1,19 @@
+body {
+  line-height: 1.6;
+  font-weight: 500;
+  color: #333;
+  background-color: #f7f7f7;
+  text-decoration: underline;
+
+  font-synthesis: initial;
+  text-rendering: geometricPrecision;
+  -webkit-font-smoothing: subpixel-antialiased;
+  -moz-osx-font-smoothing: auto;
+  min-height: 90vh;
+  width: 95%;
+}
+
+
 /* Reset some default styles for consistency across browsers */
 body,
 h1,
